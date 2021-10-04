@@ -1,5 +1,5 @@
 # co600_FinalYearProject
-
+Smart Home APP
 Video Introduction:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JOCib5_xgLM/0.jpg)](https://youtu.be/JOCib5_xgLM)
